@@ -1,9 +1,10 @@
 ### It's a mee  👋
 ![alt text](https://github.com/nackerson/nackerson/blob/master/mario3.gif "It's a me")
-- 🔭 I’m currently working on Enterprise Innovation and Product for a Government Agency
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on emerging technologies
-- 💬 Ask me about Product Strategy/Roadmapping/Data Privacy
+- 🔭 I’m currently working on my first Flutter app in my spare time. Fun.
+- 🌱 I’m currently learning... Machine Learning.
+- 👯 I’m looking to collaborate on the first and second thing
+- 💬 Ask me about Product Strategy, Augmented Reality, or Data Privacy
+- ⚡ Fun fact: Very high likelihood you've seen me in a car ad.
 
 <!--
 **nackerson/nackerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
