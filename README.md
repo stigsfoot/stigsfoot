@@ -1,5 +1,5 @@
-### It's a mee  👋
-![alt text](https://github.com/nackerson/nackerson/blob/master/mario3.gif "It's a me")
+### Hi, I'm Noble  👋
+![alt text](https://raw.githubusercontent.com/stigsfoot/stigsfoot/master/offline-dino.webp "Hi, I'm Noble")
 - 🔭 I’m currently working on my first Flutter app in my spare time. Fun.
 - 🌱 I’m currently learning... Machine Learning.
 - 👯 I’m looking to collaborate on the first and second thing
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
