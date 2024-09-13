@@ -1,6 +1,6 @@
 ### Hi, I'm Noble  👋
 ![alt text](https://raw.githubusercontent.com/stigsfoot/stigsfoot/master/offline-dino.webp "Hi, I'm Noble")
-- 🔭 I’m currently working on my first Flutter app in my spare time. Fun.
+- 🔭 I’m currently working on my first Python library in my spare time. Please add a star to the RAI Checklist.
 - 🌱 I’m always learning... Machine Learning (Encoder/Decoders for Transformer models).
 - 👯 I’m looking to collaborate on the first and second thing
 - 💬 Ask me about Product Strategy, AI Governance, Extended Reality, or Data Privacy
