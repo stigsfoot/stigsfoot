@@ -1,7 +1,11 @@
 
 # Hi there!
 
-I'm noble, welcome to my github page. I'm not sure why you're here, but before you leave, give one of my projects a star, github stars are my performance enhancement drug. OK thanks.
+I'm noble, welcome to my github page. 
+
+I'm not sure why you're here, but before you leave, give one of my projects a star, github stars are my performance enhancement drug. 
+
+OK thanks for dropping by.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noblea) 
